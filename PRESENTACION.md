@@ -1,2 +1,2 @@
-# PROYECTO
-Hola me llamo Gorka
+# PRESENTACION
+Hola me llamo Gorka.
